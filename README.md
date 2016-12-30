@@ -1,2 +1,4 @@
 # AssociatedObject
-AssociatedObject example for Swift3.0
+Swift 关联对象  
+原文链接:  
+<https://chillicheng.github.io/>
