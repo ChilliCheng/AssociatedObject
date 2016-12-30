@@ -1,2 +1,2 @@
 # AssociatedObject
-AssociatedObject for Swift3.0
+AssociatedObject example for Swift3.0
